@@ -3,8 +3,8 @@
 "video.cfg"
 {
 	"Version"		"20"
-	"VendorID"		""
-	"DeviceID"		""
+	"VendorID"		"4318"
+	"DeviceID"		"7298"
 	"setting.mat_antialias" "0"       			 	// Disable all forms of antialiasing
 	"setting.mat_shadowstate" "0"      				// Disable shadow calculations for better performance
 	"setting.mat_specular" "0"         				// Disable shiny effects to reduce GPU load
